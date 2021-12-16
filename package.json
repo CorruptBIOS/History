@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/TCOOfficiall/pbst-handbook"
+    "url": "git+https://gitlab.com/pinewood-builders/handbooks/pbst/pbst-handbook"
   },
   "keywords": [
     "vuejs",
@@ -20,7 +20,7 @@
   "author": "Stefano Haagmans <stefano@stefanocoding.me>",
   "license": "DTFYW",
   "bugs": {
-    "url": "https://gitlab.com/TCOOfficiall/pbst-handbook/issues"
+    "url": "https://gitlab.com/pinewood-builders/handbooks/pbst/pbst-handbook/-/issues"
   },
   "homepage": "https://pinewood-builders.com",
   "dependencies": {

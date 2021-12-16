@@ -3,7 +3,7 @@ module.exports = ctx => ({
   description: 'Welcome to the (unofficial) home of Pinewood!',
   dest: 'public/',
   themeConfig: {
-    repo: 'https://gitlab.com/pinewood-builders/pinewood-website',
+    repo: 'https://gitlab.com/CorruptBIOS/pinewood-website',
     editLinks: true,
     docsDir: 'docs/',
     logo: '/PB-Logo.png',
