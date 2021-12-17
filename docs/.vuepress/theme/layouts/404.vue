@@ -15,7 +15,7 @@ const msgs = [
   `There's nothing here.`,
   `How did we get here?`,
   `That's a Four-Oh-Four.`,
-  `Looks like we've got some broken links.`,
+  `Looks like we've got a leak.`,
   `Someone divided by zero.`,
   `That's Un-Four-unate.`,
   `We cannot find what you are looking for so instead we show you this blank page.`
