@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://gitlab.com/CorruptBIOS/pinewood-website/-/issues"
   },
-  "homepage": "https://pinewood-builders.com",
+  "homepage": "https://charlotte-mecklenburg-rp.netlify.app/",
   "dependencies": {
     "@vuepress/plugin-google-analytics": "^1.5.0",
     "yarn": "^1.21.1"

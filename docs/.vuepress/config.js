@@ -20,7 +20,7 @@ module.exports = ctx => ({
       text: 'Pinewood',
       items: [{
         text: 'Pinewood Homepage',
-        link: 'https://pinewood-builders.com'
+        link: 'https://charlotte-mecklenburg-rp.netlify.app/'
       },
         {
           text: 'PBST Handbook',
