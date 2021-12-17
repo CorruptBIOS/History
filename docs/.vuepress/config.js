@@ -9,8 +9,8 @@ module.exports = ctx => ({
     logo: '/PB-Logo.png',
     smoothScroll: true,
     algolia: ctx.isProd ? ({
-      apiKey: 'XQraqOZXQKrfbZCUK2KOCUHebUDpWLz1uhfWraDNt4k',
-      indexName: 'pinewood-builders'
+      apiKey: 'c889630724e74ddbb0a02704299f423e',
+      indexName: 'charlotte-mecklenburg-rp'
   }) : null,
     nav: [{
       text: 'Home',
