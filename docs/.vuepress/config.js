@@ -1,5 +1,5 @@
 module.exports = ctx => ({
-  title: 'Pinewood Builders',
+  title: 'Pinewood Builders History',
   description: 'Welcome to the (unofficial) home of Pinewood!',
   dest: 'public/',
   themeConfig: {
